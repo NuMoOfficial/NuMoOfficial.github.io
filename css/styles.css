@@ -23,3 +23,18 @@
         line-height: 27px;
   }
 }
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 150px;
+    height: 150px;
+    padding-top: 0;
+}
+
+body{
+    line-height: 3;
+    font-size: 20px;
+}
+
+#firstLink{
+    padding-top: 25px;
+}
