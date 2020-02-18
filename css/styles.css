@@ -38,3 +38,7 @@ body{
 #firstLink{
     padding-top: 25px;
 }
+
+.navbar-toggle-icon{
+    min-height: 80px;
+}
